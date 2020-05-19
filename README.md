@@ -1,6 +1,6 @@
 Data for three PIXEL ports have been collected from the data-sharing portal AISHub: GPMB, ASPM and PPA. In the AIS notebook, work on analytics of AIS is presented: heatmaps of locations, most common navigation statuses in different areas in the ROIs, most common vessel types in different parts of the ports and neighbour areas, errors in AIS data, comparison of reported and fixed navigational statuses, voyages from entering the ROI, anchoring, mooring and leaving the region.
 
-# AIS (Automatic identification system) data[¶](AIS.html#AIS-(Automatic-identification-system)-data)
+# AIS (Automatic identification system) data
 
 IMO adopted a new requirement for all ships to carry automatic identification systems (AISs) capable of providing information about the ship to other ships and to coastal authorities automatically.
 
@@ -8,12 +8,12 @@ The regulation requires AIS to be fitted aboard all ships of 300 gross tonnage a
 
 ![](./AIS_files/ais.jpg)
 
-## AIS HUB[¶](AIS.html#AIS-HUB)
+## AIS HUB
 
 AISHub is a FREE AIS data sharing service which provides access to real time ship positions for vessel tracking systems.
 
 
-# Ports[¶](AIS.html#Ports)
+# Ports
 
 *   Bordeaux - **missing AIS data** - antenna with bad range (on AIS HUB)
 *   Thessaloniki - **NO** AIS data (on AIS HUB)
@@ -26,7 +26,7 @@ AISHub is a FREE AIS data sharing service which provides access to real time shi
 ![Ports](./AIS_files/pula-receiver.png)
 
 
-## Bordeaux[¶](AIS.html#Bordeaux)
+## Bordeaux
 
 Vessels heatmap 
 
@@ -36,7 +36,7 @@ Navigational status
 
 ![GPMB_map_navstat](./AIS_files/GPMB_map_navstat_2.png)
 
-#### Detecting arrivals and departures from AIS data and Short-term ETA (Estimated Time of Arrival)[¶](AIS.html#Detecting-arrivals-and-departures-from-AIS-data-and-Short-term-ETA-(Estimated-Time-of-Arrival))
+#### Detecting arrivals and departures from AIS data and Short-term ETA (Estimated Time of Arrival)
 
 The AIS receiver connected to AISHUB has low range and usually doesn't get AIS messages from Bassens terminal. ![GPMB_AIS_coverage](./AIS_files/GPMB_AIS_coverage.png)
 
@@ -56,35 +56,35 @@ Bassens distance distribution (small number of messages from vessels close to Ba
 
 
 
-## Monfalcone[¶](AIS.html#Monfalcone)
+## Monfalcone
 
-### All collected AIS data in Adriatic sea.[¶](AIS.html#All-collected-AIS-data-in-Adriatic-sea.)
+### All collected AIS data in Adriatic sea.
 
 ![GPMB ETD](./AIS_files/AS_map_heatmap_2.png)
 
-### Filtered by vessel type (70-89 cargo vessels and tankers).[¶](AIS.html#Filtered-by-vessel-type-(70-89-cargo-vessels-and-tankers).)
+### Filtered by vessel type (70-89 cargo vessels and tankers).
 
 It takes almost 2 days from south part of Adriatic sea to north part.
  
 ![GPMB ETD](./AIS_files/AS_map_heatmap_7090_2.png)
 
-### AIS Navigational status[¶](AIS.html#AIS-Navigational-status)
+### AIS Navigational status
 
 ![GPMB ETD](./AIS_files/AS_MAP_navstat__2.png)
 
 
 
 
-## Pireas[¶](AIS.html#Pireas)
+## Pireas
 
 *   Some vessel calls data
 *   Good live AIS data
 
-### Vessels heatmap[¶](AIS.html#Vessels-heatmap)
+### Vessels heatmap
 
 ![PPA_map_heatmap](./AIS_files/PPA_map_heatmap.png)
 
-### Bunkering[¶](AIS.html#Bunkering)
+### Bunkering
 
 ![PPA_map_heatmap](./AIS_files/PPA_bunkering.png) 
 
@@ -92,15 +92,15 @@ It takes almost 2 days from south part of Adriatic sea to north part.
 
 ![PPA_map_heatmap](./AIS_files/bunkering.jpg)
 
-### Navigational status[¶](AIS.html#Navigational-status)
+### Navigational status
 
-#### AIS Navigational status[¶](AIS.html#AIS-Navigational-status)
+#### AIS Navigational status
 
 Problems with AIS navigational status
 
 ![PPA_map_navstat](./AIS_files/PPA_map_navstat_2.png)
 
-#### PIXEL Navigational status[¶](AIS.html#PIXEL-Navigational-status)
+#### PIXEL Navigational status
 
 Based on:
 
