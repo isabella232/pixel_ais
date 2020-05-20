@@ -6,7 +6,7 @@ IMO adopted a new requirement for all ships to carry automatic identification sy
 
 The regulation requires AIS to be fitted aboard all ships of 300 gross tonnage and upwards engaged on international voyages, cargo ships of 500 gross tonnage and upwards not engaged on international voyages and all passenger ships irrespective of size. The requirement became effective for all ships by 31 December 2004. 
 
-![](./AIS_files/ais.jpg)
+![](./AIS_files/AIS-overview.png)
 
 ## AIS HUB
 
